@@ -88,7 +88,8 @@ PRODUCT_PACKAGES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.exynos5 \
-    libcamera_client_shim
+    libcamera_client_shim \
+    Snap
 
 # Gatekeeper
 PRODUCT_PACKAGES += \
